@@ -4,6 +4,6 @@ This is study repo for algorithms and data structures with Python cloned from th
 
 ## How to execute
 
-```python
+```bash
 docker run --rm -p 10000:8888 -e JUPYTER_ENABLE_LAB=yes -v "$PWD":/home/mhigu/work jupyter/scipy-notebook
 ```

@@ -2,6 +2,8 @@
 
 This is study repo for algorithms and data structures with Python cloned from this [repo](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews).
 
+NOTE: Original code is written by Python2 so I modified that to Python3.
+
 ## How to execute
 
 ```bash
